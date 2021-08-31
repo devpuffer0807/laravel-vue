@@ -60,7 +60,9 @@ export const actions = {
   },
 
 
+
   
+
   updateUser ({ commit }, payload) {
     commit(types.UPDATE_USER, payload)
   },
