@@ -37,7 +37,7 @@ function createRouter () {
   router.beforeEach(beforeEach)
   router.afterEach(afterEach)
 
-  return router
+  return router ;
 }
 
 /**
